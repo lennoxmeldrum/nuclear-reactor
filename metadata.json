@@ -1,5 +1,5 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Nuclear Reactor Anatomy",
+  "description": "An interactive drag-and-drop exercise for high school physics students to identify and label the key components of a nuclear reactor, including control rods, fuel rods, coolant loop, heat exchanger, and radiation shielding.",
   "requestFramePermissions": []
 }
